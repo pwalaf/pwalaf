@@ -71,3 +71,32 @@ const response = await aiService.ask({
 - 📈 **Scalability:** Handles 100+ concurrent users
 - 🔄 **Uptime:** 99.5% availability with auto-failover
 
+
+---
+
+## 💼 What I'm Working On
+
+- 🔭 Building **StudyHub** - Academic platform with RAG-powered AI
+- 🌱 Learning **Advanced LLM techniques** and **Vector Databases**
+- 👯 Open to collaborate on **AI-powered applications** and **EdTech projects**
+- 💬 Ask me about **React Native**, **RAG systems**, **PostgreSQL optimization**
+
+---
+
+## 🎓 Education & Certifications
+
+**École Nationale d'Informatique (ENI)** | 2023 - Present  
+*Software Engineering & Databases Specialization*  
+- Focus: Full-stack development, AI/ML, Database optimization
+- Thesis: RAG-based AI Assistant for Academic Communities
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Developed production-ready RAG system with 89% accuracy
+- 📱 Built cross-platform mobile app serving 1000+ potential users
+- ⚡ Optimized vector search achieving <100ms query time
+- 🔄 Implemented auto-failover system ensuring 99.5% uptime
+
+---
