@@ -71,11 +71,3 @@ const response = await aiService.ask({
 - 📈 **Scalability:** Handles 100+ concurrent users
 - 🔄 **Uptime:** 99.5% availability with auto-failover
 
-### 🏗️ Architecture:
-Mobile (React Native + Expo)
-↓ HTTPS/WebSocket
-Backend (Express.js + TypeScript)
-↓ SQL + Vector Search
-Database (PostgreSQL + pgvector)
-↓ APIs
-External Services (Groq, Gemini, HuggingFace)
