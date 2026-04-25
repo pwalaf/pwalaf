@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John
+# 👋 Hi, I'm Parfait RAKOTOMALALA
 
 **Full-Stack Developer | AI Engineer (RAG Systems)**
 
