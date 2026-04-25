@@ -1,54 +1,41 @@
-# 👋 Hi, I'm Parfait RAKOTOMALALA
+# 👋 Hi, I'm Parfait Rakotomalala
 
 **Full-Stack Developer | AI Engineer (RAG Systems)**
 
-🎓 CS Student @ École Nationale d'Informatique (ENI), Madagascar
-🚀 I build **AI-powered applications that scale in real-world conditions**
+🎓 Computer Science student @ ENI Madagascar
+🚀 I build **scalable applications and AI-powered systems**
 
 ---
 
 ## 🚀 Featured Project — StudyHub
 
-**AI-Powered Academic Platform (Mobile + RAG System)**
+**AI-powered academic platform (Mobile + RAG)**
 
 * 🤖 Semantic search over 120+ documents (pgvector + LLM)
-* ⚡ 1.8s response time | 99.5% uptime (auto-failover: Groq/Gemini)
-* 🎥 Built-in monetization system (80/20 revenue model)
-* 📱 Cross-platform app (React Native + Expo)
+* ⚡ 1.8s response time | 99.5% uptime (auto-failover)
+* 💬 Real-time Q&A system with WebSockets
+* 🎥 Built-in monetization (video revenue sharing)
 
-**Tech:** TypeScript · Node.js · PostgreSQL · pgvector · Groq · Gemini
-
----
-
-## 🧠 What I Do
-
-* Build **RAG systems** (retrieval + LLM pipelines)
-* Design **scalable full-stack apps**
-* Optimize **databases & performance**
+**Tech:** TypeScript · Node.js · PostgreSQL · React Native · pgvector
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Core Skills
 
-**Core:** TypeScript, Python, PostgreSQL
-**Frontend:** React, React Native, Expo
-**Backend:** Node.js, Express, WebSockets
-**AI/Data:** pgvector, LLM APIs (Groq, Gemini)
-**DevOps:** Docker, Git, Render
+* **Full-Stack Development:** React, Node.js, APIs
+* **AI Systems:** RAG pipelines, LLM integration
+* **Databases:** PostgreSQL, performance optimization
 
 ---
 
 ## 📊 Highlights
 
 * ⚡ <2s AI response latency
-* 🎯 89% answer relevance (tested)
-* 📈 100+ concurrent users handled
-* 🔄 Auto-failover architecture
+* 🎯 89% answer relevance
+* 📈 Handles concurrent users in production
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Collaboration
 
-Open to **AI, RAG systems, and EdTech projects**
-
-📫 Reach out or check my repositories 👇
+Open to **AI, backend, and EdTech projects**
